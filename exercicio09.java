@@ -63,3 +63,12 @@ public class exercicio09 {
         scanner.close();
     }
 }
+
+/**************************************************************
+O programa funciona como uma calculadora simples. 
+Primeiro ele solicita ao usuário dois números depois ele pede que o usuário escolha uma operação matemática
+(+ para soma, - para subtração, * para multiplicação ou / para divisão) utilizando a estrutura switch, o programa verifica qual operação foi escolhida
+e realiza o cálculo correspondente entre os dois números.
+No caso de divisão, o código verifica se o segundo número é diferente de zero para evitar erro de divisão por zero.
+Se a operação for válida, o resultado é calculado e exibido na tela.
+***************************************************************/
