@@ -35,3 +35,8 @@ public class exercicio08 {
         scanner.close();
     }
 }
+/************************************************ COMENTÁRIO *****************************************************
+O programa solicita que o usuário digite uma palavra ou frase, em seguida, percorre cada caractere do texto usando um laço for.
+Para cada letra, o programa verifica se ela é uma vogal (a, e, i, o, u), quando encontra uma vogal, incrementa um contador.
+Ao final da verificação, o programa exibe na tela a quantidade total de vogais encontradas no texto digitado pelo usuário.
+*****************************************************************************************************************/
