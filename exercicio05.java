@@ -37,8 +37,7 @@ public class exercicio05 {
 }
 
 /**************************************************************
-Este programa percorre os números de 1 a 20 utilizando um laço de repetição.
-Em cada iteração, verifica se o número é par usando o operador de módulo (%).
+Este programa percorre os números de 1 a 20 utilizando o for para verificar se o número é par usando o operador de módulo (%).
 Quando o resto da divisão por 2 é igual a 0, o número é considerado par
 e é exibido no console.
 ***************************************************************/
